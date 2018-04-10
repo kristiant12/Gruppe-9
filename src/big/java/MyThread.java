@@ -29,6 +29,7 @@ public class MyThread extends Thread{
         }catch(InterruptedException exception){
             System.out.println(exception);
         }
+        int b = 0;
     }
 }       
     
