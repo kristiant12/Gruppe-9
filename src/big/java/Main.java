@@ -33,7 +33,7 @@ public class Main {
             Thread s = new Thread(new MyRunnable(2,"lort"));
             Scanner reader = new Scanner(System.in);
             System.out.println("oisdnhfoønsdoifnsdoifnswnføoisdnf");
-            
+            int a = 22;
             while(true){
                 String a = reader.nextLine();
                 if(a.equalsIgnoreCase("a")){
